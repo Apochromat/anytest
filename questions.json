@@ -1,0 +1,72 @@
+{
+	"title": "AnyTest",
+	"hello_message": "Тестирование 'AnyTest'",
+	"question_amount": 10,
+	"questions":[
+		{	"question_number": 0,
+			"question_type": "Entry/Button",
+			"question": "Вопрос",
+			"right_answer": 0,
+			"question_options": ["", "", ""]},
+			
+		{	"question_number": 1,
+			"question_type": "Button",
+			"question": "Кем был Рюрик\n по происхождению?",
+			"right_answer": "Варяг",
+			"question_options": ["Славянин", "Варяг", "Печенег"]},
+			
+		{	"question_number": 2,
+			"question_type": "Entry",
+			"question": "Назовите год призвания\n Рюрика на Русь.",
+			"right_answer": 862,
+			"question_options": ["", "", ""]},
+			
+		{	"question_number": 3,
+			"question_type": "Entry",
+			"question": "Когда произошло Крещение Руси?",
+			"right_answer": 988,
+			"question_options": ["", "", ""]},
+			
+		{	"question_number": 4,
+			"question_type": "Button",
+			"question": "Под каким прозвищем остался\n Даниил Александрович?",
+			"right_answer": "Московский",
+			"question_options": ["Московский", "Рязанский", "Сибирский"]},
+			
+		{	"question_number": 5,
+			"question_type": "Entry",
+			"question": "Когда в летописях первый раз\n упомянули Москву?",
+			"right_answer": 1147,
+			"question_options": ["", "", ""]},
+			
+		{	"question_number": 6,
+			"question_type": "Entry",
+			"question": "В каком году на престол взошла\n династия Романовых?",
+			"right_answer": 1613,
+			"question_options": ["", "", ""]},
+			
+		{	"question_number": 7,
+			"question_type": "Button",
+			"question": "Под каким названием в истории\n осталось 9 января 1905?",
+			"right_answer": "Кровавое Воскресенье",
+			"question_options": ["Синяя Среда", "Кровавое Воскресенье", "Тёмный Вторник"]},
+			
+		{	"question_number": 8,
+			"question_type": "Entry",
+			"question": "В каком году был свергнут\n Николай II?",
+			"right_answer": 1917,
+			"question_options": ["", "", ""]},
+			
+		{	"question_number": 9,
+			"question_type": "Button",
+			"question": "Что произошло в 1097 году?",
+			"right_answer": "Любеческий съезд",
+			"question_options": ["Любеческий съезд", "Смерть Ольги", "Основание Юрьева"]},
+			
+		{	"question_number": 10,
+			"question_type": "Button",
+			"question": "Это ханская грамота, подтверждающая\n право правлениярусских князей\n в период ордынского ига.",
+			"right_answer": "Ярлык",
+			"question_options": ["Паспорт", "Ярлык", "Грамота"]}
+	]	
+}
